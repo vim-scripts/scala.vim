@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1780
+
+This script enables syntaxic coloration of source code written in the Scala programming language (http://www.scala-lang.org)
+
+Disclaimer
+
+- This is an absolutly basic version
+- Only keywords and simple constructs like comments are recognized
+- It is by far not finished
+
+Known bugs
+
+- automatic indentation does not work properly when using the syntaxic possibilities of scala (for example when omitting the ; after the return value)
+- sign before a number is not colored
